@@ -7,3 +7,9 @@
 [submodule ".vim/bundle/vim-colors-solarized"]
 	path = .vim/bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule ".vim/bundle/swift.vim"]
+	path = .vim/bundle/swift.vim
+	url = https://github.com/keith/swift.vim
+[submodule ".vim/bundle/syntastic-swift"]
+	path = .vim/bundle/syntastic-swift
+	url = https://github.com/TheCodedSelf/syntastic-swift.git
