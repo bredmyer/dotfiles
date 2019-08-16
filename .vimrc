@@ -15,6 +15,7 @@ let g:syntastic_check_on_open=1
 let g:syntastic_check_on_wq=0
 let g:syntastic_swift_checkers=['swift']
 let g:syntastic_swift_checkers=['swiftpm', 'swiftlint']
+let g:syntastic_swift_swiftlint_use_defaults=1
 
 " NERDTree settings
 map <C-n> :NERDTreeToggle<CR>	" toggle with Ctrl+n
