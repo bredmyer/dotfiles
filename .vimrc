@@ -1,7 +1,8 @@
 " load plugins correctly
 filetype off
 
-" TODO: - load plugins here (pathogen)
+" pathogen set up
+execute pathogen#infect()
 
 " turn on syntax highlighting
 syntax on
